@@ -4,7 +4,7 @@
 
 # AWS
 ## AWS Access Key ID
-AWS_ACCESS_KEY_ID = 'AKIAIWSXFHRM7F6Z3NWQ'
+AWS_ACCESS_KEY_ID = $AWS_KEY_KU
 
 ## AWS Secret Access Key
 AWS_ACCESS_SECRET_KEY = 'UpUbsQANRHLf2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
@@ -54,7 +54,7 @@ SLACK_WEBHOOK = 'https://hooks.slack.com/services/TMG5MAXLG/B01C26N8U4E/PlVigT9j
 
 # Stripe
 ## Stripe Secret Key
-STRIPE_SECRET_KEY = 'sk_live_abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+STRIPE_SECRET_KEY = $STRIPE_KU_1
 
 ## Stripe Publishable Key
 STRIPE_PUBLISHABLE_KEY = 'pk_live_abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -96,7 +96,7 @@ MAILGUN_API_KEY = 'key-LPxoYCANGEFkAMHBur4jTjbZ69ngpdbI'
 
 # AWS
 ## AWS Access Key ID
-VAR_1 = 'AKIAIWSXFHRM7F6Z3NWQ'
+VAR_1 = $AWS_KEY_KU1
 
 ## AWS Secret Access Key
 VAR_2 = 'UpUbsQANRHLf2uuQ7QOlNXPbbtV5fmseW/GgT5D/'
@@ -146,7 +146,7 @@ VAR_18 = 'https://hooks.slack.com/services/TMG5MAXLG/B01C26N8U4E/PlVigT9jRstQd0y
 
 # Stripe
 ## Stripe Secret Key
-VAR_19 = 'sk_live_abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+VAR_19 = $STRIPE_KU_2
 
 ## Stripe Publishable Key
 VAR_20 = 'pk_live_abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
